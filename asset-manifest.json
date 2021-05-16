@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/voice-news-app/static/css/main.024e2b10.chunk.css",
+    "main.js": "/voice-news-app/static/js/main.2d92c2e0.chunk.js",
+    "main.js.map": "/voice-news-app/static/js/main.2d92c2e0.chunk.js.map",
+    "runtime-main.js": "/voice-news-app/static/js/runtime-main.7606ec15.js",
+    "runtime-main.js.map": "/voice-news-app/static/js/runtime-main.7606ec15.js.map",
+    "static/js/2.603a76d6.chunk.js": "/voice-news-app/static/js/2.603a76d6.chunk.js",
+    "static/js/2.603a76d6.chunk.js.map": "/voice-news-app/static/js/2.603a76d6.chunk.js.map",
+    "index.html": "/voice-news-app/index.html",
+    "precache-manifest.0d3534209a335addff564d03ffff8434.js": "/voice-news-app/precache-manifest.0d3534209a335addff564d03ffff8434.js",
+    "service-worker.js": "/voice-news-app/service-worker.js",
+    "static/css/main.024e2b10.chunk.css.map": "/voice-news-app/static/css/main.024e2b10.chunk.css.map",
+    "static/js/2.603a76d6.chunk.js.LICENSE.txt": "/voice-news-app/static/js/2.603a76d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7606ec15.js",
+    "static/js/2.603a76d6.chunk.js",
+    "static/css/main.024e2b10.chunk.css",
+    "static/js/main.2d92c2e0.chunk.js"
+  ]
+}
